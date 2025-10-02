@@ -226,3 +226,5 @@ models/
 */.ipynb_checkpoints
 
 .pytest_cache/
+
+data/
